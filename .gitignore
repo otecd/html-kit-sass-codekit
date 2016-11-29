@@ -1,0 +1,6 @@
+
+src/libs/*/
+bld/
+js/
+css/
+*.html

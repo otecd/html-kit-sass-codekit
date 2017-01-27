@@ -3,8 +3,8 @@
 "buildSteps": [
 	{
 		"itemsToProcess": [
-			"\/styles\/head.sass",
-			"\/styles\/project.sass"
+			"\/styles\/project.sass",
+			"\/styles\/head.sass"
 			],
 		"name": "New \"Process Certain Files\" Step",
 		"stepType": 0,
@@ -26,16 +26,16 @@
 	],
 "creatorBuild": "25444",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/404.html",
-		"oF": 0
-		},
-	"\/bld\/.gitignore": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/bld\/.gitignore",
 		"oF": 0
 		},
 	"\/bower.json": {

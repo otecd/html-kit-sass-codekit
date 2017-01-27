@@ -1,12 +1,10 @@
 {
-  "name": "my-new-project",
+  "name": "html-kit-sass-codekit-template",
   "authors": [
-    "John Doe <john@doe.com> (http://johndoe.com)"
+      "<idimzz@gmail.com> (https://github.com/papadima)"
   ],
-  "description": "CodeKit automatically generated this file. You should customize it according to: https://github.com/bower/spec/blob/master/json.md",
+  "description": "new html codekit project template with sass",
   "main": [
-    "index.html",
-    "js/project.js"
   ],
   "moduleType": [
     "amd",
@@ -19,10 +17,10 @@
     "none"
   ],
   "license": "MIT",
-  "homepage": "https://google.com",
+  "homepage": "https://github.com/papadima/html-kit-sass-codekit",
   "repository": {
     "type": "git",
-    "url": "git://github.com/foo/bar.git"
+    "url": "git@github.com:papadima/html-kit-sass-codekit.git"
   },
   "ignore": [
     "**/.*",

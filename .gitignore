@@ -1,6 +1,6 @@
 
-src/libs/*/
-bld/
 js/
 css/
+node_modules/
 *.html
+.DS_Store
